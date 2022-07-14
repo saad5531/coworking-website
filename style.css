@@ -296,13 +296,13 @@ select {
     padding-bottom: 18rem !important;
     background-size: cover;
     background-position: center;
-    height: 70vh;
+    height: 100vh;
   }
 }
 
 @media only screen and (max-width: 600px) {
   .section2 {
-    height: 90vh;
+    height: 100vh;
     background-color: #393e73;
     background-image: none;
   }
